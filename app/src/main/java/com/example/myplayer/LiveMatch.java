@@ -29,8 +29,8 @@ public class LiveMatch extends AppCompatActivity {
     TextView mPlayerStatusTextView;
     MediaController mMediaController = null;
 
-    private static final String APPLICATION_ID = "FM0V1gnrWENuviCZxiL26A";
-    private static final String API_KEY = "7jj6e7bnmly284k0ctz02zy7q";
+    private static final String APPLICATION_ID = "FM0V1gWENuviCZxiL26A";
+    private static final String API_KEY = "7jj6e7bnml84k0ctz02zy7q";
     // ...
     BroadcastPlayer.Observer mBroadcastPlayerObserver = new BroadcastPlayer.Observer() {
         @Override
